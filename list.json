@@ -1,0 +1,89 @@
+{
+    "data": {
+    "status": "ok",
+    "source": "bbc-news",
+    "sortBy": "top",
+    "articles": [
+        {
+            "author": "BBC News",
+            "title": "New book to say Trump downplayed 'deadly' virus",
+            "description": "President Trump told reporter Bob Woodward he knew Covid-19 was deadly but wanted to avoid a panic.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54094559",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15586/production/_114303478_gettyimages-1228410829.jpg",
+            "publishedAt": "2020-09-09T16:50:25Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "Wildlife in 'catastrophic decline', report warns",
+            "description": "Conservation group WWF says global wildlife populations have shrunk by two-thirds since 1970.",
+            "url": "http://www.bbc.co.uk/news/science-environment-54091048",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E5B/production/_114299418_gettyimages-135381047_elephant_thailand.jpg",
+            "publishedAt": "2020-09-10T01:18:25Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "US university professor who posed as black resigns",
+            "description": "Jessica Krug, who focused on Africa and the African diaspora, had admitted in a blog she was white.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54096370",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3E2/production/_114224245_dwghxqcu0aa9jhk.jpg",
+            "publishedAt": "2020-09-09T21:55:13Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "US official claims pressure to alter intelligence",
+            "description": "A top intelligence official says he was ordered to downplay threats from Russia and white supremacists.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54096520",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4812/production/_114305481_mediaitem114305480.jpg",
+            "publishedAt": "2020-09-09T22:46:57Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "What's behind Trump's Nobel Peace Prize nomination?",
+            "description": "For the second time the US president gets a nod for the coveted award - but we won't know if he wins for a year.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54092960",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA8C/production/_114304146_trumptop.jpg",
+            "publishedAt": "2020-09-09T19:13:37Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "'Doomsday Glacier' vulnerability seen in new maps",
+            "description": "Sea and airborne surveys show how Antarctica's mighty Thwaites ice stream can be melted from below.",
+            "url": "http://www.bbc.co.uk/news/science-environment-54079587",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F3C9/production/_114290426_1.jpg",
+            "publishedAt": "2020-09-08T23:06:42Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "This is how mind-bogglingly huge the California wildfires are",
+            "description": "Over two million acres of land have burned in California, compared to 118,000 acres razed in 2019.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54095895",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p08r0ssr.jpg",
+            "publishedAt": null
+        },
+        {
+            "author": "BBC News",
+            "title": "Canada flight cancelled over child without mask",
+            "description": "All passengers were told to disembark the WestJet flight because a young girl was not wearing her mask.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54096061",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174DA/production/_114305459_30e15d37-a1dd-4736-a01b-1439f37c30b8.jpg",
+            "publishedAt": "2020-09-10T00:52:06Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "Oscars set out best picture diversity targets",
+            "description": "Films that want to be nominated for the top prize must meet at least two of four new criteria.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-54082567",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C59B/production/_113178505_cynthiaevagett_afp.jpg",
+            "publishedAt": "2020-09-09T10:30:44Z"
+        },
+        {
+            "author": "BBC News",
+            "title": "Charity embroiled in Trudeau scandal to exit Canada",
+            "description": "The charity says it has to leave because of \"fallout\" from a political scandal involving the prime minister.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-54096059",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12E62/production/_113601477_gettyimages-850235616.jpg",
+            "publishedAt": "2020-09-09T22:11:35Z"
+        }
+    ]
+}
+}
