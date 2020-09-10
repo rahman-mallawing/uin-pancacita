@@ -1,6 +1,5 @@
 {
     "data": {
-        {
     "status": "ok",
     "totalResults": 18484,
     "articles": [
@@ -97,5 +96,4 @@
         }
     ]
 }
-    }
 }
