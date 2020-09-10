@@ -1,9 +1,101 @@
 {
-    "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-    "status": ["ok", "ehem"],
-    "totalResults": [18484, 66]
+    "data": {
+        {
+    "status": "ok",
+    "totalResults": 18484,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Geek's Guide to the Galaxy",
+            "title": "If Only Any of the 'Hobbit' Movies Were the Right Length",
+            "description": "Peter Jackson's trilogy is too long, the Rankin/Bass cartoon from the 1970s is too short. The proper length is somewhere in between.",
+            "url": "https://www.wired.com/2020/08/geeks-guide-hobbit-movies/",
+            "urlToImage": "https://www.wired.com/wp-content/uploads/2020/08/Culture_GeeksGuide_MCDHOBB_EC058-1200x630.jpg",
+            "publishedAt": "2020-08-14T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Catie Keck",
+            "title": "Quibi Is Doing Drive-In Movies Now—Which, What?",
+            "description": "Quibi, a company that tried to force people stuck at home during a pandemic to watch movies on the smallest possible screens, is now evidently pivoting to drive-in theaters—a move that is confounding if for no other reason that it defies the entire point of Q…",
+            "url": "https://gizmodo.com/quibi-is-doing-drive-in-movies-now-which-what-1844860936",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jl8khqsuvcknxso0wwrq.jpg",
+            "publishedAt": "2020-08-26T23:41:00Z",
+            "content": "Quibi, a company that tried to force people stuck at home during a pandemic to watch movies on the smallest possible screens, is now evidently pivoting to drive-in theatersa move that is confounding … [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Brendan Hesse",
+            "title": "Remove Ads From Android TV's Home Screen While You Still Can",
+            "description": "The latest Android TV Home update adds a new “Cinematic Highlights” section to the Android TV home screen. This new tab—which is now one of the first you’ll see in the interface—auto-plays ads for new shows and movies. If that annoys you, you still have an op…",
+            "url": "https://lifehacker.com/remove-ads-from-android-tvs-home-screen-while-you-still-1844764587",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/o3ocjnsant9stka4xo8x.jpg",
+            "publishedAt": "2020-08-18T20:00:00Z",
+            "content": "The latest Android TV Home update adds a new Cinematic Highlights section to the Android TV home screen. This new tabwhich is now one of the first youll see in the interfaceauto-plays ads for new sho… [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Simon",
+            "title": "AI Magic Makes Century-Old Films Look New",
+            "description": "Denis Shiryaev uses algorithms to colorize and sharpen old movies, bumping them up to a smooth 60 frames per second. The result is a stunning glimpse at the past.",
+            "url": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/",
+            "urlToImage": "https://media.wired.com/photos/5f32e8e634cbc2004e146e77/191:100/w_1280,c_limit/Science_film_962963136.jpg",
+            "publishedAt": "2020-08-12T12:00:00Z",
+            "content": "That said, when it comes to Shirayaevs updates on the Mills and Lumiere brothers historical films, I don't know that they're honestly adding that much, Prelinger adds. But it's fiction, moving archiv… [+2727 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sam Haysom",
+            "title": "25 of the best coming-of-age movies since 2000",
+            "description": "Being a teenager isn't easy.\nWhether it's the awkward transition from childhood to puberty or the moment you finally leave home and find your own way in the world, adolescence is a messy, emotionally-fraught business.\nWhich is probably what makes it so appeal…",
+            "url": "https://mashable.com/article/best-coming-of-age-movies/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F08%252F28%252Fb5%252F0c9dee8fe4f94139a73f3afc3e4dd3aa.89f7d.png%252F1200x630.png?signature=oAbtMekT0TsqsdT6fMjDvm6ggIg=",
+            "publishedAt": "2020-08-29T19:00:00Z",
+            "content": "Being a teenager isn't easy.\r\nWhether it's the awkward transition from childhood to puberty or the moment you finally leave home and find your own way in the world, adolescence is a messy, emotionall… [+32623 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Angie Han",
+            "title": "16 movies we can't wait to see this fall",
+            "description": "Not that time has any real meaning anymore, but technically speaking, the fall movie season is upon us. \nIn normal years, that means awards hopefuls, Halloween horror, holiday heartwarmers, a handful of big blockbusters, and a scattering of other random gems.…",
+            "url": "https://mashable.com/article/fall-movie-preview-2020/",
+            "urlToImage": "https://mondrian.mashable.com/2020%252F09%252F03%252F4d%252Fb0bc16dfdd2e44488e14b672db86c54a.8a65c.jpg%252F1200x630.jpg?signature=EFtvi0uD6FRGXrMJ9_OkwSvnGmQ=",
+            "publishedAt": "2020-09-03T09:30:00Z",
+            "content": "Not that time has any real meaning anymore, but technically speaking, the fall movie season is upon us. \r\nIn normal years, that means awards hopefuls, Halloween horror, holiday heartwarmers, a handfu… [+10837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Wesley Morris",
+            "title": "Plot Twist! Why 2004 Was a Surprising Year for Movies",
+            "description": "Before franchises dominated completely, great actors joined flashy directors in originals like “Collateral” and M. Night Shyamalan’s “The Village.”",
+            "url": "https://www.nytimes.com/2020/08/24/movies/shyamalan-tom-cruise.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/08/23/arts/23morris-box1/23morris-box1-facebookJumbo.jpg",
+            "publishedAt": "2020-08-24T16:01:47Z",
+            "content": "The Village was a hit. You can tell, though, that the plot twist infuriated more people than it intrigued. Its numbers were down a staggering 67 percent from its enormous opening weekend. No one seem… [+3564 chars]"
+        }
+    ]
+}
+    }
 }
